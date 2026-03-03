@@ -68,7 +68,7 @@ This app demonstrates advanced Flutter concepts:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Biky2/demo-dating-app.git
 
 ```
 2 .Navigate to the project:
@@ -104,4 +104,5 @@ Use any of the following to log in:
 This project is open-source and free to use for learning, portfolio, or practice purposes.
 
 ---
+
 
