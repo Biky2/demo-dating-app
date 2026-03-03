@@ -105,6 +105,3 @@ This project is open-source and free to use for learning, portfolio, or practice
 
 ---
 
-If you want, I can also create a **super-short version** for the GitHub repo **description field** (the one under the repo name) that is catchy and recruiter-friendly.  
-
-Do you want me to do that too?
